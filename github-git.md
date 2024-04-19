@@ -79,3 +79,7 @@ GIF de Octocat de GitHub
 Usando el comando de esta lección, envíe su código a GitHub. 🥳
 
 ¡Compruebe para asegurarse de que esto se haya completado correctamente actualizando la página!
+
+
+![image](https://github.com/BoatCode404/Git/assets/166348131/5a600d1f-6a53-45ee-bc7f-41495838a730)
+
