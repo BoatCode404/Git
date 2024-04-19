@@ -60,3 +60,22 @@ Con nuestro repositorio remoto inicializado, preparemos nuestros cambios y confi
 
 Agregue sus archivos al área de preparación.
 Confirme sus cambios y agregue el mensaje de confirmación "Compromiso inicial".
+
+¡Estamos listos para hablar sobre el comando que usaremos para finalmente "impulsar" o publicar nuestro código! Este es el último paso del flujo de trabajo básico de Git.
+
+El git pushcomando se utiliza para enviar los cambios confirmados localmente a su repositorio remoto. Verás todos los cambios que has realizado en GitHub.
+
+La primera vez que ingresa a una rama, el comando generalmente se ve así:
+
+git push -u origin main
+
+Después git push, utilizará -u origin mainpara configurar y realizar un seguimiento de los cambios desde la mainrama ascendente a través del origincontrol remoto que apunta a su repositorio de GitHub.
+
+Una vez configurado, cualquier confirmación que envíe a esta rama solo requerirá git push. Cuando haya terminado, podrá actualizar su repositorio de GitHub y ver sus cambios en línea.
+
+# Instrucciones
+GIF de Octocat de GitHub
+
+Usando el comando de esta lección, envíe su código a GitHub. 🥳
+
+¡Compruebe para asegurarse de que esto se haya completado correctamente actualizando la página!
