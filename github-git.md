@@ -83,3 +83,10 @@ Usando el comando de esta lección, envíe su código a GitHub. 🥳
 
 ![image](https://github.com/BoatCode404/Git/assets/166348131/5a600d1f-6a53-45ee-bc7f-41495838a730)
 
+Aquí hay un resumen de todo lo que hemos aprendido en este capítulo:
+
+- git initpara crear un nuevo repositorio local.
+- git remote addpara conectar nuestros repositorios locales y remotos.
+- git addpara preparar los archivos en los que hicimos cambios.
+- git commit -m ''para preparar nuestros archivos para GitHub (junto con un mensaje).
+- git pushpara publicar nuestros cambios de código en nuestro repositorio remoto en GitHub.
