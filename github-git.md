@@ -90,3 +90,5 @@ Aquí hay un resumen de todo lo que hemos aprendido en este capítulo:
 - git addpara preparar los archivos en los que hicimos cambios.
 - git commit -m ''para preparar nuestros archivos para GitHub (junto con un mensaje).
 - git pushpara publicar nuestros cambios de código en nuestro repositorio remoto en GitHub.
+- git pull para traer los cambios del repositorio remoto a tu repositorio local:(git pull origin main)
+- git push origin main despues de hacer git pull
